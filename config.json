@@ -1,0 +1,8 @@
+{
+  "example-name": {
+    "hostname": "ubuntu",
+    "ip": "0.0.0.0",
+    "port": "22",
+    "rsa_key": "C:/Users/seu-usuario/.ssh/sua-chave.key"
+  }
+}
